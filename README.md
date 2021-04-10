@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johnny
+- 👋 Hi, I’m Johnny a Nerdy Turtlez Tutor 
 - 👀 I’m interested in java assignments 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on java assignments 
